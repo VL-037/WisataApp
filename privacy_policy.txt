@@ -1,3 +1,7 @@
 WisataApp Privacy and Policy
 
 1. Only get user email
+
+Developer:
+Vincent Low - vincent.low@binus.ac.id
+Jiswa - jiswa@binus.ac.id
