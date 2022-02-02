@@ -2,9 +2,9 @@ WisataApp Privacy and Policy
 
 WisataApp is an app that provide the user about various tourist tour spots. There are nature tour spots and learning tour spots.
 
-First time login will require user account credentials, such as email / phone number / huawei ID, and password. After signing in, user will have privilege to allow / disallow credentials to be use, such as:
+First time login will require user account credentials, such as email / phone number / huawei ID, and password. After signing in, user will have privilege to allow / disallow credentials to be used, such as:
 
-1. Email
+1. Email Address
 
 Developer:
 Vincent Low - vincent.low@binus.ac.id
